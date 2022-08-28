@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "377203093951",
+    "firebase_url": "https://houserent-901f9-default-rtdb.firebaseio.com",
+    "project_id": "houserent-901f9",
+    "storage_bucket": "houserent-901f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377203093951:android:d7554b2e2d60e6be00f10a",
+        "android_client_info": {
+          "package_name": "com.myapp.rooms4rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377203093951-rp4k6cot2rdp80g0gqrivfevnpfsmjg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.rooms4rent",
+            "certificate_hash": "1201ccd2c61dc7053b3b21ba0d6ea426c061a0b5"
+          }
+        },
+        {
+          "client_id": "377203093951-d0h246s3h2fpvpmganffk6a5543l01eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPYwcuKLzCLAGtAdsNUXSYXZghdinSZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377203093951-d0h246s3h2fpvpmganffk6a5543l01eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377203093951:android:527ae3a4f45a8a9200f10a",
+        "android_client_info": {
+          "package_name": "com.rooms4rent.sell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377203093951-pakl4kvngqc2mua1uqdtl6at3t70vldd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rooms4rent.sell",
+            "certificate_hash": "1201ccd2c61dc7053b3b21ba0d6ea426c061a0b5"
+          }
+        },
+        {
+          "client_id": "377203093951-d0h246s3h2fpvpmganffk6a5543l01eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPYwcuKLzCLAGtAdsNUXSYXZghdinSZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377203093951-d0h246s3h2fpvpmganffk6a5543l01eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
